@@ -7,9 +7,9 @@ import Col from "../components/Col";
 function About() {
   return (
     <div>
-      <Hero backgroundImage="https://www.womensrunning.com/wp-content/uploads/2019/06/shutterstock_721148389-1440x810.jpg">
-        {/* <h1>Pupster</h1>
-        <h2>Who's a Good Boy?</h2> */}
+      <Hero backgroundImage="https://i.imgur.com/qkdpN.jpg">
+        <h1>Pupster</h1>
+        <h2>Who's a Good Boy?</h2>
       </Hero>
       <Container style={{ marginTop: 30 }}>
         <Row>
